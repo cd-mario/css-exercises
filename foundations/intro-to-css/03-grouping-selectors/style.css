@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+.btn {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roaman', sans-serif;
+}
+.click-me {
+    background-color: black;
+    color: white;
+}
+.click-me-not{
+    background-color: yellow;
+}
